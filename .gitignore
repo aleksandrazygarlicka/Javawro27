@@ -10,6 +10,7 @@ target/*
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.raport.txt
 
 # Generated files
 .idea/**/contentModel.xml

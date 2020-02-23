@@ -1,0 +1,26 @@
+Litera A: Wiêcej jest imion ¿eñskich
+Litera B: Wiêcej jest imion mêskich
+Litera C: Wiêcej jest imion mêskich
+Litera D: Wiêcej jest imion mêskich
+Litera E: Wiêcej jest imion ¿eñskich
+Litera F: Wiêcej jest imion mêskich
+Litera G: Wiêcej jest imion mêskich
+Litera H: Wiêcej jest imion mêskich
+Litera I: Wiêcej jest imion ¿eñskich
+Litera J: Wiêcej jest imion mêskich
+Litera K: Wiêcej jest imion ¿eñskich
+Litera L: Wiêcej jest imion ¿eñskich
+Litera M: Wiêcej jest imion ¿eñskich
+Litera N: Wiêcej jest imion ¿eñskich
+Litera O: Tyle samo jest imion mêskich i ¿eñskich
+Litera P: Tyle samo jest imion mêskich i ¿eñskich
+Litera Q: Brak imion na podan¹ literê
+Litera R: Wiêcej jest imion mêskich
+Litera S: Wiêcej jest imion ¿eñskich
+Litera T: Tyle samo jest imion mêskich i ¿eñskich
+Litera U: Wiêcej jest imion ¿eñskich
+Litera V: Brak imion na podan¹ literê
+Litera W: Wiêcej jest imion mêskich
+Litera X: Brak imion na podan¹ literê
+Litera Y: Brak imion na podan¹ literê
+Litera Z: Wiêcej jest imion mêskich
