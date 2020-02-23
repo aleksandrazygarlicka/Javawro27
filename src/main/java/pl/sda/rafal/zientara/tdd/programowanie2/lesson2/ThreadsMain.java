@@ -1,6 +1,9 @@
 package pl.sda.rafal.zientara.tdd.programowanie2.lesson2;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class ThreadsMain {
+
 
     public static void main(String[] args) {
         System.out.println(Thread.currentThread().getName());
